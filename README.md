@@ -4,7 +4,7 @@
 
 **Author:** Maksim Stepnov
 
-**Publication:** To be published in [The Curieux Review](https://www.curieuxreview.com/) (ISSN [3144-0231](https://portal.issn.org/resource/ISSN/3144-0231)) by November 15, 2026. Preprint available on Zenodo: [10.5281/zenodo.23608540](https://doi.org/10.5281/zenodo.23608540)
+**Publication:** To be published in [The Curieux Review](https://www.curieuxreview.com/) (ISSN [3144-0231](https://www.curieuxreview.com/past-issues)) by November 15, 2026. Preprint available on Zenodo: [10.5281/zenodo.23608540](https://doi.org/10.5281/zenodo.23608540)
 
 The mean value theorem guarantees a point where the derivative equals the average rate of change, but not where that point is. A classical converse says that if the midpoint always works, the function is a polynomial of degree at most two. This paper asks what happens when only one fixed interval length is required.
 
