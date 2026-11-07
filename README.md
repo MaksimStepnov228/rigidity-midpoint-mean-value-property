@@ -8,6 +8,8 @@
 
 The mean value theorem guarantees a point where the derivative equals the average rate of change, but not where that point is. A classical converse says that if the midpoint always works, the function is a polynomial of degree at most two. This paper asks what happens when only one fixed interval length is required.
 
+For intervals of length one, the condition is `f(a + 1) - f(a) = f'(a + 1/2)` for every real `a`. Equivalently, the midpoint rule for numerical integration is exact for the derivative on every such interval. The paper explores how fixing the interval length allows nonpolynomial solutions, and when a restriction on their growth restores the quadratic conclusion.
+
 ## Main results
 
 - Parabolas are no longer the only solutions. There are infinitely many counterexamples of the form $e^{at}\cos(bt)$, and the smallest growth rate among them is $\alpha_1 = 5.5373565660\ldots$
