@@ -24,7 +24,7 @@ The mean value theorem guarantees a point where the derivative equals the averag
 
 ## Citation
 
-Stepnov, M. (2026). *Rigidity of the Midpoint Mean Value Property on Intervals of Fixed Length* [Preprint]. Zenodo. https://doi.org/10.5281/zenodo.23608540
+Stepnov, M. (2026). Rigidity of the Midpoint Mean Value Property on Intervals of Fixed Length. The Curieux Review, Issue 13, Part 1 (November 2026). https://www.curieuxreview.com/fall-winter-2026
 
 ## License
 
